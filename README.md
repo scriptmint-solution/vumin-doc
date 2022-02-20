@@ -49,7 +49,7 @@ npm run dev
 - TailwindCSS
 - TailwindCSS Form
 - VueForm MultiSelect
-- Vue Quilll
+- Vue Quill
 - Floating Vue (Tooltip)
 - SweetAlert2
 - Vue Flatpickr
