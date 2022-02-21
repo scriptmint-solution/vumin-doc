@@ -1,4 +1,4 @@
-### Vumin is an Admin Template built with Vue.js 3 & Tailwind CSS 3. Vumin offers 50+ components & page designs to make your frontend development easy.
+### Vumin is an Admin Template built with Vue.js 3 & Tailwind CSS 3. Vumin offers 20+ components & page designs to make your frontend development easy.
 
 ### Highlights
 - SPA (Single Page Application)
@@ -7,14 +7,14 @@
 - Compsition API
 - Script Setup Syntax
 
-Live Demo: https://vumin-pro.scriptmint.com
+Live Demo: https://vumin.scriptmint.com
 
 GitHub Repository: https://github.com/scriptmint-solution/vumin-doc
 
 ### Features Available
 - Mobile Responsive
 - Dark & Light Mode
-- Profile Dropdown
+- Profile
 - Pinned & Full Sidebar Navigation
 - Authentication Pages
 - Dashboard with Chart & Stats
@@ -58,12 +58,11 @@ npm run dev
 - Vite.js Compression Plugin
 - PostCSS
 
+### Documentation
+Check out documentation at https://github.com/scriptmint-solution/vumin-doc/wiki
+
 ### Browser Support
 Modern Browser Only
 
 ### Issue Reporting
 If you face any issue, you can send us an email to hello@scriptmint.com
-
-### License
-MIT License
-Copyright (c) 2022 scriptmint.com (https://scriptmint.com)
