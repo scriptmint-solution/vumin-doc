@@ -9,8 +9,6 @@
 
 Live Demo: https://vumin.scriptmint.com
 
-GitHub Repository: https://github.com/scriptmint-solution/vumin-doc
-
 ### Features Available
 - Mobile Responsive
 - Dark & Light Mode
